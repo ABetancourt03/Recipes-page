@@ -93,15 +93,16 @@ p {
   text-align: center;
 }
 
-.github {
+.created-by {
   position: absolute;
   text-align: right;
-  justify: right;
-  justify-content: right;
-  align: right;
-  align-items: right;
+}
+
+.github {
+  position: absolute;
   right: 1vw;
-  bottom: -220vh;
+  text-decoration: none;
+  color: black;
 }
 
 @media (max-width: 768px) {
