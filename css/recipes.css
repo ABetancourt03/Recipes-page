@@ -93,6 +93,17 @@ p {
   text-align: center;
 }
 
+.github {
+  position: absolute;
+  text-align: right;
+  justify: right;
+  justify-content: right;
+  align: right;
+  align-items: right;
+  right: 1vw;
+  bottom: -220vh;
+}
+
 @media (max-width: 768px) {
   .cake-img img {
   width: 100%;
